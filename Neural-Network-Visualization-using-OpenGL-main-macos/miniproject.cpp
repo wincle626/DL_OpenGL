@@ -1,8 +1,9 @@
-#include <GL\glut.h>
+#include <GL/glut.h>
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-#include <conio.h>
+//#include <conio.h>
+#include <stdio.h>
 #include "iostream"
 #include <time.h>
 using namespace std;
